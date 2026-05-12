@@ -1,11 +1,14 @@
 {
-  "name": "AresBot",
+  "name": "59.Ares",
   "version": "1.0.0",
+  "description": "Massive Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
   }
 }
